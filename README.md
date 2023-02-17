@@ -16,7 +16,7 @@ This is a helper for creating a react components with [Stitches-like](https://gi
 
 ### Main differences from [classname-variants/react](https://github.com/fgnass/classname-variants#bonus-styled-components-but-for-static-css-):
 
-- Instead of polymorphism (`as` prop), this package uses [@radix-ui/react-slot](https://www.radix-ui.com/docs/primitives/utilities/slot) (`asChild` prop) which concatenates its props with its immediate child
+- Instead of polymorphism (`as` prop), this package uses [@radix-ui/react-slot](https://www.radix-ui.com/docs/primitives/utilities/slot) (`asChild` prop) which concatenates component props with its immediate child
 - Correct implementation of `VariantPropsOf` utility type that only returns variant props of react component
 - Ability to extract the configuration from a `styled` react component using the `extractVariantsConfig` function
 
