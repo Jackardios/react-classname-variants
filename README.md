@@ -6,7 +6,7 @@
 [![Commitizen Friendly][commitizen-img]][commitizen-url]
 [![Semantic Release][semantic-release-img]][semantic-release-url]
 
-This is a helper for creating a react components with [Stitches-like](https://github.com/stitchesjs/stitches) variants using [classname-variants](https://github.com/fgnass/classname-variants) under the hood.
+This is a helper for creating react components with [Stitches-like](https://github.com/stitchesjs/stitches) variants using [classname-variants](https://github.com/fgnass/classname-variants) under the hood.
 
 ## Features:
 
